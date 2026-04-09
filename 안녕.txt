@@ -1,0 +1,9 @@
+total 57
+drwxr-xr-x 1 byeon 197609     0 Apr  9 10:26 ./
+drwxr-xr-x 1 byeon 197609     0 Apr  9 09:22 ../
+drwxr-xr-x 1 byeon 197609     0 Apr  9 09:35 .git/
+-rw-r--r-- 1 byeon 197609  7788 Apr  2 11:27 .gitignore
+-rw-r--r-- 1 byeon 197609 35823 Apr  2 11:27 LICENSE
+-rw-r--r-- 1 byeon 197609    98 Apr  9 09:31 README.md
+-rw-r--r-- 1 byeon 197609     0 Apr  9 09:30 redtae.txt
+-rw-r--r-- 1 byeon 197609     0 Apr  9 10:26 안녕.txt
