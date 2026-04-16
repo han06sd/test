@@ -1,0 +1,18 @@
+total 122
+drwxr-xr-x 1 byeon 197609     0 Apr 16 04:09 ./
+drwxr-xr-x 1 byeon 197609     0 Apr 16 04:08 ../
+drwxr-xr-x 1 byeon 197609     0 Apr 16 04:08 .git/
+-rw-r--r-- 1 byeon 197609  7788 Apr 16 04:08 .gitignore
+-rw-r--r-- 1 byeon 197609     0 Apr 16 04:08 1.pptx
+-rw-r--r-- 1 byeon 197609     0 Apr 16 04:08 2.docx
+-rw-r--r-- 1 byeon 197609 59904 Apr 16 04:08 3.pub
+-rw-r--r-- 1 byeon 197609  6591 Apr 16 04:08 4.xlsx
+-rw-r--r-- 1 byeon 197609 35823 Apr 16 04:08 LICENSE
+-rw-r--r-- 1 byeon 197609    98 Apr 16 04:08 README.md
+-rw-r--r-- 1 byeon 197609     0 Apr 16 04:08 ghg.txt
+-rw-r--r-- 1 byeon 197609     0 Apr 16 04:08 redtae.txt
+-rw-r--r-- 1 byeon 197609     0 Apr 16 04:08 ret.txt
+-rw-r--r-- 1 byeon 197609     0 Apr 16 04:08 test1.txt
+-rw-r--r-- 1 byeon 197609     0 Apr 16 04:09 ttt.txt
+-rw-r--r-- 1 byeon 197609     0 Apr 16 04:08 새 텍스트 문서.txt
+-rw-r--r-- 1 byeon 197609   442 Apr 16 04:08 안녕.txt
