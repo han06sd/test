@@ -1,0 +1,13 @@
+sdafasdfasdfasfasdfsadfsasastotal 121
+drwxr-xr-x 1 byeon 197609     0 Apr 30 10:53 ./
+drwxr-xr-x 1 byeon 197609     0 Apr 30 10:51 ../
+drwxr-xr-x 1 byeon 197609     0 Apr 30 10:53 .git/
+-rw-r--r-- 1 byeon 197609  7788 Apr 30 10:51 .gitignore
+-rw-r--r-- 1 byeon 197609     0 Apr 30 10:51 1.pptx
+-rw-r--r-- 1 byeon 197609     0 Apr 30 10:51 2.docx
+-rw-r--r-- 1 byeon 197609 59904 Apr 30 10:51 3.pub
+-rw-r--r-- 1 byeon 197609  6591 Apr 30 10:51 4.xlsx
+-rw-r--r-- 1 byeon 197609 35823 Apr 30 10:51 LICENSE
+-rw-r--r-- 1 byeon 197609    98 Apr 30 10:51 README.md
+-rw-r--r-- 1 byeon 197609     0 Apr 30 10:53 test1.txt
+-rw-r--r-- 1 byeon 197609     0 Apr 30 10:53 test2.txt
