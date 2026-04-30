@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 asdfasdftotal asdfdsssssssssssssssss1drwxr-xr-x 1 byeon 197609     0 Apr 30 10:53 ./
+=======
+1
+drwxr-xr-x 1 byeon 197609     0 Apr 30 10:53 ./
+>>>>>>> test
 drwxr-xr-x 1 byeon 197609     0 Apr 30 10:51 ../
 drwxr-xr-x 1 byeon 197609     0 Apr 30 10:53 .git/
 -rw-r--r-- 1 byeon 197609  7788 Apr 30 10:51 .gitignore
