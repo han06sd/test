@@ -1,4 +1,4 @@
-sdafasdfasdfasfasdfsadfsasastotal 121
+total 121
 drwxr-xr-x 1 byeon 197609     0 Apr 30 10:53 ./
 drwxr-xr-x 1 byeon 197609     0 Apr 30 10:51 ../
 drwxr-xr-x 1 byeon 197609     0 Apr 30 10:53 .git/
