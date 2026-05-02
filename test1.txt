@@ -1,11 +1,7 @@
-<<<<<<< HEAD
-asdfasdftotal asdfdsssssssssssssssss1drwxr-xr-x 1 byeon 197609     0 Apr 30 10:53 ./
-=======
-1
-drwxr-xr-x 1 byeon 197609     0 Apr 30 10:53 ./
->>>>>>> test
+total 125
+drwxr-xr-x 1 byeon 197609     0 May  2 21:32 ./
 drwxr-xr-x 1 byeon 197609     0 Apr 30 10:51 ../
-drwxr-xr-x 1 byeon 197609     0 Apr 30 10:53 .git/
+drwxr-xr-x 1 byeon 197609     0 May  2 21:31 .git/
 -rw-r--r-- 1 byeon 197609  7788 Apr 30 10:51 .gitignore
 -rw-r--r-- 1 byeon 197609     0 Apr 30 10:51 1.pptx
 -rw-r--r-- 1 byeon 197609     0 Apr 30 10:51 2.docx
@@ -13,5 +9,5 @@ drwxr-xr-x 1 byeon 197609     0 Apr 30 10:53 .git/
 -rw-r--r-- 1 byeon 197609  6591 Apr 30 10:51 4.xlsx
 -rw-r--r-- 1 byeon 197609 35823 Apr 30 10:51 LICENSE
 -rw-r--r-- 1 byeon 197609    98 Apr 30 10:51 README.md
--rw-r--r-- 1 byeon 197609     0 Apr 30 10:53 test1.txt
--rw-r--r-- 1 byeon 197609     0 Apr 30 10:53 test2.txt
+-rw-r--r-- 1 byeon 197609     0 May  2 21:33 test1.txt
+-rw-r--r-- 1 byeon 197609     0 Apr 30 11:12 test2.txt
